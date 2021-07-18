@@ -1,0 +1,8 @@
+[DONE] Download CIFAR100
+[DONE] Write a script to get a list of (image, unlabeled)
+
+Train Stage 0 - randomly sample images (20%)
+and train a model (ResNet-26)
+
+100 classes - 500 images per class = 50000
+100 classes - 100 images per class = 10000 (no stratified sampling)
